@@ -1,0 +1,30 @@
+body
+|-----heeader
+|     |----h1
+|     |----p (time)
+|     |____nav
+|         |____ul > li > a
+|-----main
+|     |----section (Top Story)
+|     |    |----h2
+|     |    |____article
+|     |         |---- header (h3, p, time)
+|     |         |---- p
+|     |----section (Latest News)
+|     |    |----h2
+|     |    |----article (h3, p)
+|     |    |----article (h3, p)
+|     |----section (Technology)
+|     |    |----h2
+|     |    |----article (h3, p)
+|     |    |----article (h3, p)
+|     |----section (Sports)
+|     |    |----h2
+|     |    |----article (h3, p)
+|     |    |----article (h3, p)
+|     |----aside (Most Read)
+|     |    |----h2
+|     |    |----ol > li > a
+|_____footer
+      |----address (contact information)
+      |____p (copyright)
